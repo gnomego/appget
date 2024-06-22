@@ -1,0 +1,6 @@
+
+
+- name: tre
+  github: dduan/tre
+  version: latest
+  pre-release: true
